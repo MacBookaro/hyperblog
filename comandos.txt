@@ -1,0 +1,86 @@
+git add
+git commit "Start Project"
+git config --global user.name "Francisco Naranjo"
+git config --global user.email "francisco.naranjo@outlook.com"
+git --git-dir
+git --help
+git --status
+git --info-path
+git commit "Start..."
+git commit -m "Start commit"
+git config --global --edit
+git tag
+git commit -m "Initial state"
+git config --global --edit
+git remote add origin git@github.com:MacBookaro/PreWorkMac.git
+git commit -m "Added a paragraph of text"
+git init
+git config --get
+git config --global
+git config --global --edit
+git config --system
+git status
+git show
+git --version
+git add .
+git commit -m "Commit inicial"
+git commit -am "Commit al master del blogpost en su versión más reciente"
+git log
+git branch cabecera
+git checkout cabecera
+git commit
+git remote -v
+git rm c25d83ae9db6d24ed469f4cdd096d038905816ef
+git reset HEAD
+git rm --cached
+git reset c25d83ae9db6d24ed469f4cdd096d038905816ef
+git reset c25d83ae9db6d24ed469f4cdd096d038905816ef --soft
+git commit
+git commit -am "Finalizada la cabecera con diseño azul"
+git checkout master
+git commit -am "Agregando el contenido adicional del blog y una mejor tipografía"
+git checkout master
+git merge cabecera 
+git commit -am "Volví a una tipografía menos controversial"
+git merge master
+git commit -am "Modique la cabecera y el color del texto"
+git checkout master
+git commit -am "Agregué suscripción, cambie la cabecera maestra y puse todo azul"
+git merge cabecera 
+git commit -am "Solucioné el conflicto de las ramas a fucionarr"
+git checkout master
+git commit --amend
+git remote add origin https://github.com/MacBookaro/hyperblog.gitgit@github.com:MacBookaro/PreWorkMac.git
+git remote add origin https://github.com/MacBookaro/hyperblog.git
+git remote set-url origin https://github.com/MacBookaro/hyperblog.git
+git push origin master
+git pull
+git pull master
+git pull origin master
+git push origin master
+git pull origin main
+git branch
+git branch -r
+git branch -a
+git checkout main
+git pu
+git pull origin main
+git checkout master 
+git merge main
+git checkout main
+git merge master
+git checkout main 
+git checkout master
+git pull origin master --allow-unrelated-histories
+git merge main -allow-unrelated-histories
+git merge main --allow-unrelated-histories
+git pull origin master 
+git push origin master
+git pull origin master 
+git config -l
+git remote set-url origin git@github.com:MacBookaro/hyperblog.git
+git pull origin master 
+git commit -am "Una versión del Hyperblog"
+git pull origin master 
+git push origin master 
+git 
